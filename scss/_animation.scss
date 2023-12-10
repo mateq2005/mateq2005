@@ -1,0 +1,68 @@
+@keyframes gradient-text {
+    0% {
+      text-shadow: 0 0 10px #FAA0A0;
+    }
+    25% {
+      text-shadow: 0 0 10px #FAC898;
+    }
+    50% {
+      text-shadow: 0 0 10px #A7C7E7;
+    }
+    75% {
+      text-shadow: 0 0 10px #3D426B;
+    }
+    100% {
+      text-shadow: 0 0 10px #FAA0A0;
+    }
+    75% {
+      text-shadow: 0 0 10px #FAC898;
+    }
+    50% {
+      text-shadow: 0 0 10px #A7C7E7;
+    }
+    25% {
+      text-shadow: 0 0 10px #3D426B;
+    }
+    0% {
+      text-shadow: 0 0 10px #FAA0A0;
+    }
+}
+
+@keyframes fadeInDown {
+  0% {
+     opacity: 0;
+     transform: translateY(-20px);
+  }
+  100% {
+     opacity: 1;
+     transform: translateY(0);
+  }
+} 
+
+@keyframes fadeInLeft {
+  0% {
+     opacity: 0;
+     transform: translateX(-20px);
+  }
+  100% {
+     opacity: 1;
+     transform: translateX(0);
+  }
+} 
+
+@keyframes fadeInRight {
+  0% {
+     opacity: 0;
+     transform: translateX(20px);
+  }
+  100% {
+     opacity: 1;
+     transform: translateX(0);
+  }
+} 
+
+@keyframes popOut {
+  from{transform:scale(0)}
+  80%{transform:scale(1.2)}
+  to{transform:scale(1)}
+}

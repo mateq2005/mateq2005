@@ -1,0 +1,90 @@
+.nav {
+
+    /*position*/
+    position: fixed;
+    top: 0;
+
+    /*flex-box*/
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    /*others*/
+    width: 100vw;
+    background-color: #010408;
+    box-shadow: 0 0 1px white;
+
+    .nav-github {
+
+        /*flex-box*/
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        .nav-link {
+            padding: 20px;
+
+            .github {
+                max-width: 100%;
+                filter: invert(1);
+                border-radius: 50%;
+                animation: popOut 1s;
+            }
+        }
+    }
+
+    .nav-links {
+
+        /*flex-box*/
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        .nav-link {
+            padding: 30px;
+            color: white;
+            font-size: 1.5em;
+            text-decoration: none;
+            animation: gradient-text 10s infinite, fadeInDown 1s;;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+
+    .nav-logo {
+
+        /*flex-box*/
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        .nav-link {
+            padding: 20px;
+
+            .logo {
+                max-width: 100%;
+                border-radius: 50%;
+                filter: invert(0);
+                animation: popOut 1s;
+
+                &:hover {
+                    box-shadow: 0 0 10px white;
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 1220px) {
+    .nav {
+        position: relative;
+        justify-content: space-around;
+
+        .nav-links {
+            display: none;
+        }
+    }
+}

@@ -1,0 +1,38 @@
+.footer {
+
+    /*position*/
+    position: fixed;
+    bottom: 0;
+
+    /*flex-box*/
+    display: flex;
+    flex-direction: row;
+    justify-content: first baseline;
+
+    width: 100vw;
+    background-color: #010408;
+    box-shadow: 0 0 1px white;
+
+    .footer-links {
+
+        /*flex-box*/
+        display: flex;
+        flex-direction: row;
+
+        .footer-link {
+            padding: 30px;
+            color: white;
+            font-size: 1.5em;
+            text-decoration: none;
+            animation: gradient-text 10s infinite, popOut 1s;
+            cursor: default;
+        }
+    }
+}
+
+@media only screen and (max-width: 1220px) {
+    .footer {
+        position: relative;
+        justify-content: space-around;
+    }
+}

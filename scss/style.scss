@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+html {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #11141a;
+}
+
+
+@import "./animation";
+@import "./nav";
+@import "./main";
+@import "./footer";
