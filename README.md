@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤗 I'm Mateusz (*ɱʌʈəʋːʃ*)
+- 😁 I'm Mateusz (*ɱʌʈəʋːʃ*)
 - 🇪🇺 I'm from **European Union**
 - 🔭 I’m currently working on: *Web Development*
 - 🌱 I’m currently learning: *HTML*, *CSS* and *JavaScript*
