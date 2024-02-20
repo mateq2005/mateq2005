@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Banaszczyk
+    given-names: Mateusz
+    orcid: none
+title: "Rice&Spice"
+version: 1.0.0
+identifiers:
+  - type: URL
+    value: https://mateq2005.github.io/rice-and-spice/
+date-released: 2024-02-20
