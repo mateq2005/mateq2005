@@ -4,9 +4,9 @@ authors:
   - family-names: Banaszczyk
     given-names: Mateusz
     orcid: none
-title: "Rice&Spice"
+title: "portfolio"
 version: 1.0.0
 identifiers:
   - type: URL
-    value: https://mateq2005.github.io/rice-and-spice/
-date-released: 2024-02-20
+    value: https://mateq2005.github.io/mateq2005/
+date-released: 2023-12-20
