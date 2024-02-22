@@ -1,8 +1,7 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Banaszczyk
-    given-names: Mateusz
+  - github: https://github.com/mateq2005
     orcid: none
 title: "portfolio"
 version: 1.0.0
