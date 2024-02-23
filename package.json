@@ -8,7 +8,7 @@
   },
   "keywords": ["html","css","js"],
   "author": "mateq2005",
-  "license": "none",
+  "license": "https://mateq2005.github.io/mateq2005/LICENCE.md",
   "dependencies": {
     "sass": "^1.69.5"
   }
