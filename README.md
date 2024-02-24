@@ -1,7 +1,7 @@
 # Hi there 👋
 
-- 😁 I'm Mateusz
-- 🔗 Portfolio Website: https://mateq2005.github.io/mateq2005/
+### 🔗 Portfolio Website:
+- https://mateq2005.github.io/mateq2005/
 
 > ### Skills 🛠️
 - HTML
