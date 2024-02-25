@@ -15,9 +15,11 @@
 - [index.html](index.html)
 > The main HTML file that structures the content of the portfolio.
 
-- **package-lock.json**: Automatically generated for any operations involving npm, ensuring consistent installs.
-- **package.json**: Defines project settings and dependencies.
-- **style.css**: Central stylesheet providing the aesthetic appeal for the website.
+- [package.json](package.json)
+> Defines project settings and dependencies.
+
+- [style.css](style.css)
+> Central stylesheet providing the aesthetic appeal for the website.
 
 ## Licence
 
