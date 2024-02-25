@@ -17,11 +17,9 @@
 - **package.json**: Defines project settings and dependencies.
 - **style.css**: Central stylesheet providing the aesthetic appeal for the website.
 
+## Licence
 
-
-
-
-
+> This project is licensed under the [ISC Licence](LICENCE.md). Feel free to modify and use it according to your needs. Refer to the license file for more details.
 
 # Hi there 👋
 
