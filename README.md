@@ -6,7 +6,8 @@
 
 ## Files and Folders
 
-- **resources**: Contains essential assets like favicon.ico, github.svg, and logo.png for a visually appealing experience.
+- [resources](resources)
+> Contains essential assets like favicon.ico, github.svg, and logo.png for a visually appealing experience.
 - **scss**: Houses SCSS files for a structured and maintainable stylesheet.
 - **.gitignore**: Specifies files and directories to be ignored by version control.
 - **CITATION.cff**: Citation File Format for recognizing contributors.
